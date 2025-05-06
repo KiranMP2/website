@@ -1,5 +1,4 @@
-![Screenshot 2025-05-04 162025](https://github.com/user-attachments/assets/7259e1c4-9b4a-4da6-96b2-d574fc450454)# Ex.07 Restaurant Website
-# Date:
+# Date:04-05-2025
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
